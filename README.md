@@ -17,6 +17,7 @@ Privacy-first, offline-capable AI · Security-minded deployments (ex-pentest & t
 - **[Mini-GPT](https://github.com/nelson960/Mini-GPT)** — Decoder-only MiniGPT in PyTorch (training loop, checkpoints, early stopping)
 - **[tic_tac_toe](https://github.com/nelson960/tic_tac_toe)** — Tiny Transformer policy/value via self-play + minimax teacher (no MCTS) + symmetry aug
 - **[Trend-Analysis](https://github.com/nelson960/Trend-Analysis)** — Twitter brand trend forecasting (sentiment + Prophet + dashboards)
+- **[Data-Quality-Monitor](https://github.com/nelson960/Data-Quality-Monitor)** - Data Quality Monitor for ML Pipelines
 
 ---
 
