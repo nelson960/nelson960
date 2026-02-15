@@ -13,6 +13,7 @@ Privacy-first, offline-capable AI · Security-minded deployments (ex-pentest & t
 
 - **[Insight_app](https://github.com/nelson960/Insight_app)** — Privacy-first local RAG (Tauri + React/TS + FastAPI + SQLite, Qdrant, llama.cpp, OCR)
 - **[Predictive Maintenance Platform](https://github.com/nelson960/predictive-maintenance-platform-)** - End-to-end local ML system for industrial telemetry with two online goals
+- **[SafetyOps Platform](https://github.com/nelson960/SafetyOps-Platform-For-LLM-Agents)** - Test harness for LLM applications and agents.
 - **[Blind_AI](https://github.com/nelson960/Blind_AI)** — Real-time scene narration for visually impaired users (low-latency, async pipeline)
 - **[Semantic_Image_Search_Engine](https://github.com/nelson960/Semantic_Image_Search_Engine)** — DINOv2 + FAISS semantic retrieval service (fast queries, Docker)
 - **[Mini-GPT](https://github.com/nelson960/Mini-GPT)** — Decoder-only MiniGPT in PyTorch (training loop, checkpoints, early stopping)
