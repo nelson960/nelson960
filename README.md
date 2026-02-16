@@ -16,7 +16,7 @@ Privacy-first, offline-capable AI · Security-minded deployments (ex-pentest & t
 - **[SafetyOps Platform](https://github.com/nelson960/SafetyOps-Platform-For-LLM-Agents)** - Test harness for LLM applications and agents.
 - **[Blind_AI](https://github.com/nelson960/Blind_AI)** — Real-time scene narration for visually impaired users (low-latency, async pipeline)
 - **[Semantic_Image_Search_Engine](https://github.com/nelson960/Semantic_Image_Search_Engine)** — DINOv2 + FAISS semantic retrieval service (fast queries, Docker)
-- **[Mini-GPT](https://github.com/nelson960/Mini-GPT)** — Decoder-only MiniGPT in PyTorch (training loop, checkpoints, early stopping)
+- **[Mini-GPT](https://github.com/nelson960/Mini-GPT)** — MiniGPT Journey: Classic Transformer to Modern MoE
 - **[tic_tac_toe](https://github.com/nelson960/tic_tac_toe)** — Tiny Transformer policy/value via self-play + minimax teacher (no MCTS) + symmetry aug
 - **[Trend-Analysis](https://github.com/nelson960/Trend-Analysis)** — Twitter brand trend forecasting (sentiment + Prophet + dashboards)
 - **[Data-Quality-Monitor](https://github.com/nelson960/Data-Quality-Monitor)** - Data Quality Monitor for ML Pipelines
