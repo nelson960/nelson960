@@ -38,25 +38,9 @@ Currently working on **privacy-first AI infrastructure and intelligent knowledge
 
 ---
 
-## Core skills
-- **MLOps / Infra:** Docker, Kubernetes (working knowledge), CI/CD concepts, MLflow (experiment tracking), Linux, Git  
-- **Model Serving:** FastAPI, REST APIs, streaming responses, packaging/release automation, performance benchmarking  
-- **LLM / AI Engineering:** RAG, embeddings, llama.cpp (GGUF), Qdrant (vector DB), tool/function scoping, agentic workflows  
-- **Optimization:** ONNX, quantization (GGUF), latency profiling, GPU/CPU utilization tuning  
-- **Monitoring / Reliability:** structured logging, health checks, latency/throughput metrics, regression checks, alerting basics  
-- **Security / Governance:** pentesting, secure coding, least-privilege mindset, pipeline hardening, vulnerability assessment  
-- **Languages / Cloud / Data:** Python, C++, Bash, SQL · AWS (familiar), Azure/GCP (familiar) · pandas, NumPy, Prophet
+Core Skills
 
-
----
-
-## Experience (brief)
-**Machine Learning Engineer (Independent Projects)** — production-minded ML systems (RAG, CV, multimodal)
-
-**Activ Bytes — Dubai, UAE (Jan 2022 – Dec 2022)**  
-Penetration testing across web apps, networks, and APIs; built Python/Bash tooling (reduced manual testing ~40%); collaborated with DevOps to improve CI/CD security.
-
----
+Python · LLM Systems · Retrieval-Augmented Generation (RAG) · Agentic AI Architectures · Vector Search & Embeddings · Semantic Search · Multimodal AI · Prompt Engineering · PyTorch · Transformers · FastAPI · llama.cpp · Vector Databases (Qdrant, FAISS, Milvus) · Postgres . Sqlite . Docker · CI/CD · API Design · React · Tauri
 
 ## Education & certifications
 
