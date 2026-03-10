@@ -1,5 +1,6 @@
 # Nelson Alex
 LLM Systems · Agentic AI · Retrieval-Augmented Generation
+
 AI Engineer focused on **LLM systems, agentic architectures, and retrieval-augmented generation (RAG)**.
 I build **end-to-end AI systems** combining local LLM inference, vector search, agent orchestration, and modern full-stack interfaces.
 Currently working on **privacy-first AI infrastructure and intelligent knowledge systems**. (ex-pentest & tool developer)
