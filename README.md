@@ -5,7 +5,7 @@ AI Engineer focused on **LLM systems, agentic architectures, and retrieval-augme
 I build **end-to-end AI systems** combining local LLM inference, vector search, agent orchestration, and modern full-stack interfaces.
 Currently working on **privacy-first AI infrastructure and intelligent knowledge systems**. (ex-pentest & tool developer)
 
-**London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com) · 🧑‍💻 https://github.com/nelson960  
+**London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com) 
 
 
 ---
