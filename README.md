@@ -4,29 +4,30 @@ LLM Systems · Agentic AI · Retrieval-Augmented Generation
 AI Engineer/Researcher focused on Building and research on **LLM, Ml systems, Agentic architectures**.
 (ex-pentest & tool developer)
 
-**London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com) 
-
-
+**London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com)
 ---
 
 
-## Featured projects
+## Featured Build projects
 
 - **[Insight_app](https://github.com/nelson960/Insight_app)** — Privacy-first local RAG 
 - **[Predictive Maintenance Platform](https://github.com/nelson960/predictive-maintenance-platform-)** - End-to-end local ML system for industrial telemetry with two online goals
-- **[Mechanistic-Transparency](https://github.com/nelson960/Mechanistic-Transparency)** Tracing internal model computation
 - **[SafetyOps Platform](https://github.com/nelson960/SafetyOps-Platform-For-LLM-Agents)** - Test harness for LLM applications and agents.
 - **[Blind_AI](https://github.com/nelson960/Blind_AI)** — Real-time scene narration for visually impaired users (low-latency, async pipeline)
 - **[Semantic_Image_Search_Engine](https://github.com/nelson960/Semantic_Image_Search_Engine)** — DINOv2 + FAISS semantic retrieval service (fast queries, Docker)
-- **[Mini-GPT](https://github.com/nelson960/Mini-GPT)** — MiniGPT Journey: End-to-end pipline Classic Transformer to Modern MoE
-- **[tic_tac_toe](https://github.com/nelson960/tic_tac_toe)** — Tiny Transformer policy/value via self-play + minimax teacher (no MCTS) + symmetry aug
 - **[Trend-Analysis](https://github.com/nelson960/Trend-Analysis)** — Twitter brand trend forecasting (sentiment + Prophet + dashboards)
 - **[Data-Quality-Monitor](https://github.com/nelson960/Data-Quality-Monitor)** - Data Quality Monitor for ML Pipelines
 
+## Featured Reasearch 
+- **[Mechanistic-Transparency](https://github.com/nelson960/Mechanistic-Transparency)** Tracing internal model computation
+- **[Mini-GPT](https://github.com/nelson960/Mini-GPT)** — MiniGPT Journey: End-to-end pipline Classic Transformer to Modern MoE
+- **[tic_tac_toe](https://github.com/nelson960/tic_tac_toe)** — Tiny Transformer policy/value via self-play + minimax teacher (no MCTS) + symmetry aug
+
 ---
 ## Paper Published
-- **[Circuit emergence in small transformers]**(https://nelson960.github.io/Mechanistic-Transparency/)
+- **[Circuit emergence in small transformers] -(https://nelson960.github.io/Mechanistic-Transparency/)**
 
+---
 ## Toolbox
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -42,7 +43,7 @@ AI Engineer/Researcher focused on Building and research on **LLM, Ml systems, Ag
 
 Core Skills
 
-Python · LLM Systems · Retrieval-Augmented Generation (RAG) · Agentic AI Architectures · Vector Search & Embeddings · Semantic Search · Multimodal AI · Prompt Engineering · PyTorch · Transformers · FastAPI · llama.cpp · Vector Databases (Qdrant, FAISS, Milvus) · Postgres . Sqlite . Docker · CI/CD · API Design · React · Tauri
+Python · LLM Systems · RAG · Agentic AI Architectures · Vector Search & Embeddings · Semantic Search · Multimodal AI · Prompt Engineering · PyTorch · Transformers · FastAPI · llama.cpp · Vector Databases (Qdrant, FAISS, Milvus) · Postgres . Sqlite . Docker · CI/CD · API Design · React · Tauri
 
 ## Education & certifications
 
