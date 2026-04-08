@@ -24,7 +24,7 @@ Currently more focused on **research**, with engineering and building side proje
 - **[tic_tac_toe](https://github.com/nelson960/tic_tac_toe)** — Tiny Transformer policy/value via self-play + minimax teacher (no MCTS) + symmetry aug
 
 ## Paper Published
-- **[Circuit emergence in small transformers](https://nelson960.github.io/Mechanistic-Transparency/)**
+- **[Retrieval Motif Emergence in Small Transformers](https://nelson960.github.io/Mechanistic-Transparency/)**
 
 ## Education & certifications
 
