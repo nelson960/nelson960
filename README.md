@@ -1,7 +1,8 @@
 # Nelson Alex
-LLM Systems · Agentic AI · Retrieval-Augmented Generation
 
-AI Engineer/Researcher focused on Building and research on **LLM, Ml systems, Agentic architectures**.
+**AI Research Engineer** focused on **mechanistic interpretability, LLM systems, agentic AI, and retrieval-based systems**.
+I am especially interested in understanding how models reason internally, and in building systems that make those behaviors observable, testable, and useful.
+Currently more focused on **research**, with engineering and building side projects.
 (ex-pentest & tool developer)
 
 **London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com)
