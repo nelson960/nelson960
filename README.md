@@ -1,9 +1,8 @@
 # Nelson Alex
 LLM Systems · Agentic AI · Retrieval-Augmented Generation
 
-AI Engineer focused on **LLM systems, agentic architectures, and retrieval-augmented generation (RAG)**.
-I build **end-to-end AI systems** combining local LLM inference, vector search, agent orchestration, and modern full-stack interfaces.
-Currently working on **privacy-first AI infrastructure and intelligent knowledge systems**. (ex-pentest & tool developer)
+AI Engineer/Researcher focused on **LLM, Ml systems, Agentic architectures**.
+(ex-pentest & tool developer)
 
 **London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com) 
 
@@ -25,6 +24,8 @@ Currently working on **privacy-first AI infrastructure and intelligent knowledge
 - **[Data-Quality-Monitor](https://github.com/nelson960/Data-Quality-Monitor)** - Data Quality Monitor for ML Pipelines
 
 ---
+## Paper Published
+- **[Circuit emergence in small transformers](https://nelson960.github.io/Mechanistic-Transparency/)
 
 ## Toolbox
 
