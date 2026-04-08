@@ -1,7 +1,7 @@
 # Nelson Alex
 LLM Systems · Agentic AI · Retrieval-Augmented Generation
 
-AI Engineer/Researcher focused on **LLM, Ml systems, Agentic architectures**.
+AI Engineer/Researcher focused on Building and research on **LLM, Ml systems, Agentic architectures**.
 (ex-pentest & tool developer)
 
 **London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com) 
@@ -12,7 +12,7 @@ AI Engineer/Researcher focused on **LLM, Ml systems, Agentic architectures**.
 
 ## Featured projects
 
-- **[Insight_app](https://github.com/nelson960/Insight_app)** — Privacy-first local RAG (Tauri + React/TS + FastAPI + SQLite, Qdrant, llama.cpp, OCR)
+- **[Insight_app](https://github.com/nelson960/Insight_app)** — Privacy-first local RAG 
 - **[Predictive Maintenance Platform](https://github.com/nelson960/predictive-maintenance-platform-)** - End-to-end local ML system for industrial telemetry with two online goals
 - **[Mechanistic-Transparency](https://github.com/nelson960/Mechanistic-Transparency)** Tracing internal model computation
 - **[SafetyOps Platform](https://github.com/nelson960/SafetyOps-Platform-For-LLM-Agents)** - Test harness for LLM applications and agents.
@@ -25,7 +25,7 @@ AI Engineer/Researcher focused on **LLM, Ml systems, Agentic architectures**.
 
 ---
 ## Paper Published
-- **[Circuit emergence in small transformers](https://nelson960.github.io/Mechanistic-Transparency/)
+- **[Circuit emergence in small transformers]**(https://nelson960.github.io/Mechanistic-Transparency/)
 
 ## Toolbox
 
