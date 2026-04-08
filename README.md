@@ -25,7 +25,7 @@ AI Engineer/Researcher focused on Building and research on **LLM, Ml systems, Ag
 
 ---
 ## Paper Published
-- **[Circuit emergence in small transformers] -(https://nelson960.github.io/Mechanistic-Transparency/)**
+- **[Circuit emergence in small transformers](https://nelson960.github.io/Mechanistic-Transparency/)**
 
 ---
 ## Toolbox
