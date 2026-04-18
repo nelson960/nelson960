@@ -5,7 +5,7 @@ I am especially interested in understanding how models reason internally, and in
 Currently more focused on **research**, with engineering and building side projects.
 (ex-pentest & tool developer)
 
-**London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com)
+**London, UK** · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com) [🔗](https://www.linkedin.com/in/nelsonalex960/)
 
 ---
 ## Featured Build projects
