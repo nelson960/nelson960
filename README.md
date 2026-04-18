@@ -25,7 +25,7 @@ Currently more focused on **research**, with engineering and building side proje
 
 ## Paper Published
 - **[Retrieval Motif Emergence in Small Transformers](https://nelson960.github.io/Mechanistic-Transparency/)**
-- **[Circuits](https://nelson960.github.io/Circuits/)** (Ongoing)
+- **[From Loss To Lookup: Tracing Circuit Formation In A Small Transformer](https://nelson960.github.io/Circuits/)** (Ongoing)
 
 ## Education & certifications
 
