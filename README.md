@@ -9,7 +9,7 @@ Currently more focused on **research**, with engineering and building side proje
 
 ---
 ## Current Work 
-- **[Preserving Circuits]()
+- **[Preserving Circuits]()**
 
 ## Research Write-ups
 - **[Retrieval Motif Emergence in Small Transformers](https://nelson960.github.io/Mechanistic-Transparency/)**
