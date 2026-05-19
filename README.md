@@ -8,6 +8,8 @@ Currently more focused on **research**, with engineering and building side proje
 · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com) [🔗](https://www.linkedin.com/in/nelsonalex960/)
 
 ---
+## Current Work 
+- **[Preserving Circuits]()
 
 ## Research Write-ups
 - **[Retrieval Motif Emergence in Small Transformers](https://nelson960.github.io/Mechanistic-Transparency/)**
