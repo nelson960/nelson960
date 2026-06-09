@@ -9,11 +9,11 @@ Currently more focused on **research**, with engineering and building side proje
 
 ---
 ## Ongoing Research 
-- **[Preserving Circuits](https://nelson960.github.io/Preserving-Circuits/)**
+- **[Preserving Circuits](https://nelson960.github.io/Preserving-Circuits/)** — ongoing research on continual learning and mechanistic forgetting. Studies whether learned circuits survive, move, disconnect, get overwritten, or are reused during new learning.
 
 ## Research Write-ups
-- **[Retrieval Motif Emergence in Small Transformers](https://nelson960.github.io/Mechanistic-Transparency/)**
-- **[From Loss To Lookup: Tracing Circuit Formation In A Small Transformer](https://nelson960.github.io/Circuits/)**
+- **[From Loss To Lookup: Tracing Circuit Formation In A Small Transformer](https://nelson960.github.io/Circuits/)** — how a small transformer forms symbolic lookup behavior using QK/OV analysis, residual-stream tracing, causal subspaces, optimizer-update attribution, and write/readout analysis.
+- **[Retrieval Motif Emergence in Small Transformers](https://nelson960.github.io/Mechanistic-Transparency/)** — studying when small transformers learn retrieval-like computation and which internal components carry the behavior.
 
 
 ## Featured Research
@@ -32,7 +32,8 @@ Currently more focused on **research**, with engineering and building side proje
 - **[Trend-Analysis](https://github.com/nelson960/Trend-Analysis)** — Twitter brand trend forecasting (sentiment + Prophet + dashboards)
 - **[Data-Quality-Monitor](https://github.com/nelson960/Data-Quality-Monitor)** - Data Quality Monitor for ML pipeline
 
-
+## Interests 
+- Neural network, Mechanistic Interpretability, Continual learning, LLM systems, AI safety/evals, Agentic RAG systems, adversarial/security testing
 
 ## Education & certifications
 
