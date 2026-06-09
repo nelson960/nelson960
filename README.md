@@ -1,6 +1,6 @@
 # Nelson Alex
 
-**AI Research Engineer** focused on **mechanistic interpretability, LLM systems, agentic AI, and retrieval-based systems**.
+**AI Research Engineer** focused on **mechanistic interpretability,Continual learning, LLM systems, agentic AI, and retrieval-based systems**.
 I am interested in understanding how models reason internally, and in building systems that make those behaviors observable, testable, and useful.
 Currently more focused on **research**, with engineering and building side projects.
 (ex-pentest & tool developer)
