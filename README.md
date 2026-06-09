@@ -1,9 +1,9 @@
 # Nelson Alex
 
-**AI Research Engineer** focused on **mechanistic interpretability, Continual learning, LLM systems, agentic AI, and retrieval-based systems**.
+**AI Research Engineer** focused on **mechanistic interpretability, continual learning, LLM systems, agentic AI, and retrieval-based systems**.
 I am interested in understanding how models reason internally, and in building systems that make those behaviors observable, testable, and useful.
-Currently more focused on **research**, with engineering and building side projects.
-(ex-pentest & tool developer)
+Currently focused on research, while continuing to build engineering projects around LLM systems, evaluation, and reliable AI tools.
+Former penetration tester & security tool developer.
 
 · 📩 [nelsontharappel@gmail.com](mailto:nelsontharappel@gmail.com) [🔗](https://www.linkedin.com/in/nelsonalex960/)
 
@@ -18,7 +18,7 @@ Currently more focused on **research**, with engineering and building side proje
 
 ## Featured Research
 - **[Mechanistic-Transparency](https://github.com/nelson960/Mechanistic-Transparency)** Tracing internal model computation
-- **[Mini-GPT](https://github.com/nelson960/Mini-GPT)** — MiniGPT Journey: End-to-end pipline Classic Transformer to Modern MoE
+- **[Mini-GPT](https://github.com/nelson960/Mini-GPT)** — MiniGPT Journey: End-to-end pipeline Classic Transformer to Modern MoE
 - **[tic_tac_toe](https://github.com/nelson960/tic_tac_toe)** — Tiny Transformer policy/value via self-play + minimax teacher (no MCTS) + symmetry aug
 
 
@@ -33,7 +33,7 @@ Currently more focused on **research**, with engineering and building side proje
 - **[Data-Quality-Monitor](https://github.com/nelson960/Data-Quality-Monitor)** - Data Quality Monitor for ML pipeline
 
 ## Interests 
-- Neural network, Mechanistic Interpretability, Continual learning, LLM systems, AI safety/evals, Agentic RAG systems, adversarial/security testing
+- Neural networks, Mechanistic Interpretability, Continual learning, LLM systems, AI safety/evals, Agentic RAG systems, adversarial/security testing
 
 ## Education & certifications
 
