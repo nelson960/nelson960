@@ -24,6 +24,7 @@ Former penetration tester & security tool developer.
 
 ## Featured Build projects
 
+- **[Bird-Eval](https://github.com/nelson960/Bird-Eval)** - Evaluation tool for models and agents
 - **[Insight_app](https://github.com/nelson960/Insight_app)** — Privacy-first local RAG 
 - **[Predictive Maintenance Platform](https://github.com/nelson960/predictive-maintenance-platform-)** - End-to-end local ML system for industrial telemetry with two online goals
 - **[SafetyOps Platform](https://github.com/nelson960/SafetyOps-Platform-For-LLM-Agents)** - Test harness for LLM applications and agents.
